@@ -1,4 +1,4 @@
-# # Welcome to the e-llusion wiki!
+# e-llusion
 
 ![](https://raw.githubusercontent.com/yosua-onesimus/e-llusion/master/dist-img/FrmEllusion.png)
 

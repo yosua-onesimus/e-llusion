@@ -14,7 +14,7 @@ public class FrmEllusion extends javax.swing.JFrame {
         aContent = new cococare.swing.component.CCImage();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("(e)llusion ~ electronic illusion 1.0.160808");
+        setTitle("(e)llusion ~ electronic illusion 2.0.160808");
         setMinimumSize(new java.awt.Dimension(800, 600));
         setResizable(false);
 
